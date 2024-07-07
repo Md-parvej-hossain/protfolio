@@ -98,3 +98,36 @@ ul .li a:hover {
 .baner-propail-pic {
   width: 500px;
 }
+.section-header {
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+  padding-bottom: 20px;
+}
+.section-dascrption {
+  font-size: 18px;
+  color: rgb(117, 117, 117);
+  text-align: justify;
+}
+.secandary-background {
+  background: rgb(255, 248, 243);
+}
+main {
+  max-width: 900px;
+  margin: 0px auto;
+}
+.about {
+  padding: 130px 150px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 130px;
+}
+.about-dascrtion {
+  font-weight: 600;
+}
+
+.about-items {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 0 0 0;
+}
